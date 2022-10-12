@@ -1,0 +1,15 @@
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar - Recursive and Extension Method\bin\Debug\net6.0\Metotlar - Recursive and Extension Method.exe
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar - Recursive and Extension Method\bin\Debug\net6.0\Metotlar - Recursive and Extension Method.deps.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar - Recursive and Extension Method\bin\Debug\net6.0\Metotlar - Recursive and Extension Method.runtimeconfig.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar - Recursive and Extension Method\bin\Debug\net6.0\Metotlar - Recursive and Extension Method.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar - Recursive and Extension Method\bin\Debug\net6.0\Metotlar - Recursive and Extension Method.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar - Recursive and Extension Method\obj\Debug\net6.0\Metotlar - Recursive and Extension Method.csproj.AssemblyReference.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar - Recursive and Extension Method\obj\Debug\net6.0\Metotlar - Recursive and Extension Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar - Recursive and Extension Method\obj\Debug\net6.0\Metotlar - Recursive and Extension Method.AssemblyInfoInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar - Recursive and Extension Method\obj\Debug\net6.0\Metotlar - Recursive and Extension Method.AssemblyInfo.cs
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar - Recursive and Extension Method\obj\Debug\net6.0\Metotlar - Recursive and Extension Method.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar - Recursive and Extension Method\obj\Debug\net6.0\Metotlar - Recursive and Extension Method.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar - Recursive and Extension Method\obj\Debug\net6.0\refint\Metotlar - Recursive and Extension Method.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar - Recursive and Extension Method\obj\Debug\net6.0\Metotlar - Recursive and Extension Method.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar - Recursive and Extension Method\obj\Debug\net6.0\Metotlar - Recursive and Extension Method.genruntimeconfig.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Metotlar - Recursive and Extension Method\obj\Debug\net6.0\ref\Metotlar - Recursive and Extension Method.dll

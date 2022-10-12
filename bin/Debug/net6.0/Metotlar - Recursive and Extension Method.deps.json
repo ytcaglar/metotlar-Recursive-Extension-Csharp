@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Metotlar - Recursive and Extension Method/1.0.0": {
+        "runtime": {
+          "Metotlar - Recursive and Extension Method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metotlar - Recursive and Extension Method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
